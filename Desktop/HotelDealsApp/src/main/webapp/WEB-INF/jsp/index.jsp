@@ -94,8 +94,8 @@ $(document).ready(function() {
 			<%@include file="common/header.jsp"%>
 		</header>
 		<div id="date">
-		From: <input type="text" id="txtFromDate" />
-        To: <input type="text" id="txtToDate" />
+		CheckInDate: <input type="text" id="txtFromDate" />
+        CheckOutDate: <input type="text" id="txtToDate" />
 		</div>
 		
 		<table>
