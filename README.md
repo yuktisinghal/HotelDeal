@@ -21,6 +21,6 @@ Future Enhancement:
 
 1. Deals can be sorted on the basis of date selected by user(i have put date selector but functionality is not working)
 
-2.More beautiful UI can be made.
+2 UI with better look can be made.
 
 3.Best 5 deals like Super Savers and holiday recommendations can be shown to users through images. When user clicks the image , details of it can be shown.
