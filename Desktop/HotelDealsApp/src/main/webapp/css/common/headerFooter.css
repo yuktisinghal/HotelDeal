@@ -1,0 +1,82 @@
+@CHARSET "ISO-8859-1";
+
+.header.row { height: 75px; background:#99FFCC; }
+.body.row { top: 75px; bottom: 10px; padding: 1em; }
+.footer.row { height: 50px;  bottom:0; width:96%;
+       background:#99FFCC; position: absolute; }
+          
+body { font-family: Segoe UI, Helvetica, Arial, Sans-Serif;
+	background-image:  url(./../../images/background1.jpg);
+    background-size:   cover;                      
+    background-repeat: no-repeat;}
+    
+.header, .footer { padding: 0 1em; }
+
+.carousel-caption h1 {
+font-family:    Garamond;
+font-size:      2em;
+color:        red;
+}
+
+
+#fontstyles
+{
+display: block;
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+width:100%;
+border-collapse:collapse;
+height: 90px;
+overflow-y: auto;
+
+}
+#fontstyles td, #fontstyles th 
+{
+font-size:0.9em;
+border:1px solid #D3D3D3;
+padding:3px 7px 2px 7px;
+}
+#fontstyles th 
+{
+font-size:1.4em;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#A7C942;
+color:#fff;
+}
+#fontstyles tr.alt td 
+{
+color:#000;
+background-color:white;
+align:center
+}
+#fontstyles tr.alt td:hover
+{
+color:#000;
+background-color:#D3D3D3;
+align:center
+}
+  
+.underLine
+ {
+ 	text-decoration: underline;
+ }
+ 
+ .bold
+ {
+ 	font-weight:bold;
+ }
+ 	
+ .italic
+ {
+ 	font-style:italic;
+ }	
+ 
+.hover
+{
+	opacity:0.4;
+	filter:alpha(opacity=40);
+}
+
+  
+  
